@@ -41,8 +41,6 @@ Classifying the images:
 
 
 
-**Output video predicting the images as cats and dogs can be found [here](https://drive.google.com/file/d/1sFOQtDGLc8avs-w5c2NtjmG5i7AYdUk0/view?usp=sharing).**
-
 
 ### Instructions to run the code:
 
